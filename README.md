@@ -4,7 +4,6 @@ Project Name: Baby’s First Learning
 
 Batch: IOS Development
 Name: Md. Mahmudul Islam Talukder
-ID:  SD-09-5059
 Email: talukdermahmud@gmail.com
 Phone: 01674154121
 
